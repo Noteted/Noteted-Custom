@@ -15,7 +15,7 @@
 
 <h2> 😮 | How do I add my custom-made themes and extensions? </h2>
 <p>
-    You can send me either in <b>Discord</b>, or do a Pull Request! <br>
+    You can send me in <b>Issues tab</b>! <br>
     Please, when you're sending me something. It needs this.
     <ul>
         <li>Your Name (username or nickname)</li>
